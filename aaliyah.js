@@ -1,9 +1,9 @@
 exports.tryAgain = function (func, delay) {
-    (function pickItUpAndTryAgain() {
+    !function dustItOffAndTryAgain() {
         try {
             func();
         } catch (nonSuccess) {
-            setTimeout(pickItUpAndTryAgain, delay);
+            setTimeout(dustItOffAndTryAgain, delay);
         }
-    })();
+    }();
 };
