@@ -4,7 +4,7 @@
 
 Aaaliyah is a cutting edge JavaScript library with an upbeat attitude:
 
-Sometimes if your code doesn't work, you just have to [try again](https://www.youtube.com/watch?v=zi_lhIaZOXI).
+*Sometimes if your code doesn't work, you just have to [try again](https://www.youtube.com/watch?v=zi_lhIaZOXI)*.
 
 ## Install
 
