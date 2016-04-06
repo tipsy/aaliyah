@@ -1,3 +1,5 @@
+![](https://img.shields.io/npm/v/aaliyah.svg?style=flat)
+
 # aaliyah
 
 Aaaliyah is a cutting edge JavaScript library with an upbeat attitude:
