@@ -1,0 +1,19 @@
+{
+  "name": "aaliyah",
+  "version": "1.0.0",
+  "description": "Try again",
+  "main": "aaliyah.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipsy/aaliyah.git"
+  },
+  "author": "David Åse",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tipsy/aaliyah/issues"
+  },
+  "homepage": "https://github.com/tipsy/aaliyah#readme"
+}
